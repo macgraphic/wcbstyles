@@ -266,7 +266,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 }
 
 .site-header {
-	background: #779195 url('https://2016.sandiego.wordcamp.org/files/2015/10/header.jpg') 50% 100% no-repeat;
+	background: #779195 url('https://s3-eu-west-1.amazonaws.com/wcbelfast/wordcamp_belfast_header.jpg') 50% 100% no-repeat;
 	background-size: cover;
 	border-top: 5px solid #41608f;
 	-moz-box-shadow: inset 0 10px 60px rgba(126,99,88,0.5);
