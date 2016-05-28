@@ -1258,9 +1258,9 @@ body div.sharedaddy h3.sd-title:before {
 }
 
 .site-title {
-	width: 271px;
-	height: 125px;
-	background: url('https://2016.sandiego.wordcamp.org/files/2015/10/wcsd16-logo-white.png') no-repeat;
+	width: 250px;
+	height: 250px;
+	background: url('https://s3-eu-west-1.amazonaws.com/wcbelfast/wordcamp_belfast_header.jpg') no-repeat;
 	margin: 0 auto;
 	text-indent: 100%;
 	white-space: nowrap;
